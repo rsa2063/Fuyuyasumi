@@ -1,0 +1,13 @@
+<resources>
+    <declare-styleable name="MyTopView">
+        <attr name="leftText" format="string"/>
+        <attr name="leftColor" format="color"/>
+        <attr name="leftBackground" format="reference|color"/>
+        <attr name="titleText" format="string"/>
+        <attr name="titleColor" format="dimension"/>
+        <attr name="titleSize" format="dimension|float"/>
+        <attr name="rightText" format="string"/>
+        <attr name="rightColor" format="color"/>
+        <attr name="rightBackground" format="reference|color"/>
+    </declare-styleable>
+</resources>
